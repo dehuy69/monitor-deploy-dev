@@ -1,9 +1,123 @@
 {
-  "camera": {
-    "list": "Danh sách camera"
+  "action": "Thao tác",
+  "add": {
+    "camera": "Thêm camera"
   },
+  "after": "sau",
+  "agree": "Đồng ý",
+  "alarm": "Báo động",
+  "all": "Tất cả",
+  "auto": "Tự động",
+  "camera": {
+    "delete": "Xóa camera",
+    "enter_name": "Nhập tên camera",
+    "list": "Danh sách camera",
+    "share": "Chia sẻ camera"
+  },
+  "cancel": "Hủy",
+  "click": "bấm",
+  "config": "Cấu hình",
+  "confirm": "Xác nhận",
+  "connect": "Kết nối",
+  "day": "Chuyển động",
+  "developer_options": "Tùy chọn nhà phát triển",
+  "email": {
+    "address": "Địa chỉ email",
+    "enter": "Nhập email",
+    "notify": "Nếu bạn muốn thay đổi Email thì xin hãy ",
+    "update": "Cập nhật email"
+  },
+  "enter_password": "Nhập mật khẩu",
+  "full_name": "Họ tên",
+  "get_the_code": "Lấy mã",
+  "here": "vào đây",
   "lang": {
     "english": "Tiếng Anh",
     "vietnamese": "Tiếng Việt"
+  },
+  "move": "Chuyển động",
+  "notify": {
+    "complete": "Hoàn thành",
+    "connected": "Xác nhận đã kết nối",
+    "delete_camera_ask": "Bạn muốn xóa camera này?",
+    "delete_camera_ask_info": "Sau khi xóa mọi thông tin liên quan đến camera này bao gồm cả lịch sử đều sẽ bị xóa!",
+    "delete_camera_complete": "Camera đã được xóa khỏi người dùng.",
+    "is_earliestDate_view": "là ngày cũ nhất có thể xem",
+    "noname": "Chưa đặt tên",
+    "ready_in": "sẵn sàng trong",
+    "reboot_camera_ask": "Bạn có muốn khôi phục gốc cho camera này?",
+    "reboot_camera_ask_info": "Sau khi khôi phục gốc camera sẽ mất hêt dữ liệu.",
+    "restart_camera_ask": "Bạn có muốn khởi động lại camera này?",
+    "restart_camera_complete": "Camera sẽ được khởi động lại trong ít phút.",
+    "set_alarm_success": "Đã cập nhật trạng thái báo động.",
+    "share_success": "Camera đã được chia sẻ thành công.",
+    "start_filter_move": "Bắt đầu lọc chuyển động",
+    "update_camera_name_success": "Đã cập nhật tên camera thành công.",
+    "update_data_success": "Dữ liệu đã được cập nhật.",
+    "update_ir_status_success": "Đã cập nhật trạng thái IR",
+    "validate": {
+      "email": "Email không được trống",
+      "email_syntax": "Email sai định dạng",
+      "password": "Mật khẩu không được trống",
+      "phone": "Số điện thoại không được trống",
+      "username_not_exist": "Tên người dùng không tồn tại",
+      "username_plz": "Vui lòng nhập tên người dùng",
+      "username_syntax": "Tên người dùng sai định dạng",
+      "verify_codes": "Mã xác thực không được trống",
+      "wifi_name": "Tên Wifi không được trống"
+    }
+  },
+  "off": "Tắt",
+  "on": "Mở",
+  "password": "Mật khẩu",
+  "password_change": "Thay đổi mật khẩu",
+  "persion_info": "Thông tin người dùng",
+  "phone": {
+    "enter": "Nhập số điện thoại",
+    "notify": "Nếu bạn muốn thay đổi số điện thoại thì xin hãy ",
+    "number": "Số điện thoại",
+    "update": "Cập nhật số điện thoại"
+  },
+  "profile": "Thông tin cá nhân",
+  "refresh": "Làm mới",
+  "refuse": "Từ chối",
+  "save": "Lưu",
+  "security": "Bảo mật",
+  "send": "Gửi",
+  "setting": {
+    "alarm": "Thiết lập cảnh báo",
+    "detect_move": "Thiết lập phát hiện chuyển động",
+    "network": "Thiết lập mạng",
+    "share": "Thiết lập chia sẻ"
+  },
+  "share": "Chia sẻ",
+  "stop_share": "Ngừng chia sẻ",
+  "success": "Thành công",
+  "time": "Thời gian",
+  "try_again": "Thử lại",
+  "turn_off": "Ngừng",
+  "update": "Cập nhật",
+  "update_firmware": "Cập nhật phần mềm",
+  "user_share_list": "Danh người dùng đã được chia sẻ",
+  "username": "Tên người dùng",
+  "verify": {
+    "codes": "Mã xác thực",
+    "enter": "Nhập mã xác thực",
+    "send_again": "Gửi lại mã xác nhận"
+  },
+  "version": {
+    "current": "Phiên bản hiện tại",
+    "firmware": "Phiên bản Firmware",
+    "list": "Danh sách phiên bản cập nhật"
+  },
+  "view": {
+    "history": "Xem lịch sử",
+    "more": "Xem thêm"
+  },
+  "volume": "Âm lượng",
+  "wifi": {
+    "enter_name": "Nhập tên Wifi",
+    "list_connect": "Danh sách Wifi kết nối",
+    "name": "Tên WIFI"
   }
 }

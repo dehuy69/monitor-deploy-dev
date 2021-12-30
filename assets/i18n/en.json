@@ -1,9 +1,123 @@
 {
-  "camera": {
-    "list": "Camera list"
+  "action": "Thao tác (EN)",
+  "add": {
+    "camera": "Thêm camera"
   },
+  "after": "sau (EN)",
+  "agree": "Đồng ý (EN)",
+  "alarm": "Báo động (EN)",
+  "all": "Tất cả (EN)",
+  "auto": "Tự động (EN)",
+  "camera": {
+    "delete": "Xóa camera (EN)",
+    "enter_name": "Nhập tên camera (EN)",
+    "list": "Danh sách camera (EN)",
+    "share": "Chia sẻ camera"
+  },
+  "cancel": "Hủy (EN)",
+  "click": "bấm (EN)",
+  "config": "Cấu hình (EN)",
+  "confirm": "Xác nhận (EN)",
+  "connect": "Kết nối (EN)",
+  "day": "Chuyển động (EN)",
+  "developer_options": "Tùy chọn nhà phát triển (EN)",
+  "email": {
+    "address": "Địa chỉ email (EN)",
+    "enter": "Nhập email (EN)",
+    "notify": "Nếu bạn muốn thay đổi Email thì xin hãy  (EN)",
+    "update": "Cập nhật email"
+  },
+  "enter_password": "Nhập mật khẩu (EN)",
+  "full_name": "Họ tên (EN)",
+  "get_the_code": "Lấy mã (EN)",
+  "here": "vào đây (EN)",
   "lang": {
-    "english": "English",
-    "vietnamese": "Vietnamese"
+    "english": "Tiếng Anh (EN)",
+    "vietnamese": "Tiếng Việt"
+  },
+  "move": "Chuyển động (EN)",
+  "notify": {
+    "complete": "Hoàn thành (EN)",
+    "connected": "Xác nhận đã kết nối (EN)",
+    "delete_camera_ask": "Bạn muốn xóa camera này? (EN)",
+    "delete_camera_ask_info": "Sau khi xóa mọi thông tin liên quan đến camera này bao gồm cả lịch sử đều sẽ bị xóa! (EN)",
+    "delete_camera_complete": "Camera đã được xóa khỏi người dùng. (EN)",
+    "is_earliestDate_view": "là ngày cũ nhất có thể xem (EN)",
+    "noname": "Chưa đặt tên (EN)",
+    "ready_in": "sẵn sàng trong (EN)",
+    "reboot_camera_ask": "Bạn có muốn khôi phục gốc cho camera này? (EN)",
+    "reboot_camera_ask_info": "Sau khi khôi phục gốc camera sẽ mất hêt dữ liệu. (EN)",
+    "restart_camera_ask": "Bạn có muốn khởi động lại camera này? (EN)",
+    "restart_camera_complete": "Camera sẽ được khởi động lại trong ít phút. (EN)",
+    "set_alarm_success": "Đã cập nhật trạng thái báo động. (EN)",
+    "share_success": "Camera đã được chia sẻ thành công. (EN)",
+    "start_filter_move": "Bắt đầu lọc chuyển động (EN)",
+    "update_camera_name_success": "Đã cập nhật tên camera thành công. (EN)",
+    "update_data_success": "Dữ liệu đã được cập nhật. (EN)",
+    "update_ir_status_success": "Đã cập nhật trạng thái IR (EN)",
+    "validate": {
+      "email": "Email không được trống (EN)",
+      "email_syntax": "Email sai định dạng (EN)",
+      "password": "Mật khẩu không được trống (EN)",
+      "phone": "Số điện thoại không được trống (EN)",
+      "username_not_exist": "Tên người dùng không tồn tại (EN)",
+      "username_plz": "Vui lòng nhập tên người dùng (EN)",
+      "username_syntax": "Tên người dùng sai định dạng (EN)",
+      "verify_codes": "Mã xác thực không được trống (EN)",
+      "wifi_name": "Tên Wifi không được trống"
+    }
+  },
+  "off": "Tắt (EN)",
+  "on": "Mở (EN)",
+  "password": "Mật khẩu (EN)",
+  "password_change": "Thay đổi mật khẩu (EN)",
+  "persion_info": "Thông tin người dùng (EN)",
+  "phone": {
+    "enter": "Nhập số điện thoại (EN)",
+    "notify": "Nếu bạn muốn thay đổi số điện thoại thì xin hãy  (EN)",
+    "number": "Số điện thoại (EN)",
+    "update": "Cập nhật số điện thoại"
+  },
+  "profile": "Thông tin cá nhân (EN)",
+  "refresh": "Làm mới (EN)",
+  "refuse": "Từ chối (EN)",
+  "save": "Lưu (EN)",
+  "security": "Bảo mật (EN)",
+  "send": "Gửi (EN)",
+  "setting": {
+    "alarm": "Thiết lập cảnh báo (EN)",
+    "detect_move": "Thiết lập phát hiện chuyển động (EN)",
+    "network": "Thiết lập mạng (EN)",
+    "share": "Thiết lập chia sẻ"
+  },
+  "share": "Chia sẻ (EN)",
+  "stop_share": "Ngừng chia sẻ (EN)",
+  "success": "Thành công (EN)",
+  "time": "Thời gian (EN)",
+  "try_again": "Thử lại (EN)",
+  "turn_off": "Ngừng (EN)",
+  "update": "Cập nhật (EN)",
+  "update_firmware": "Cập nhật phần mềm (EN)",
+  "user_share_list": "Danh người dùng đã được chia sẻ (EN)",
+  "username": "Tên người dùng (EN)",
+  "verify": {
+    "codes": "Mã xác thực (EN)",
+    "enter": "Nhập mã xác thực (EN)",
+    "send_again": "Gửi lại mã xác nhận"
+  },
+  "version": {
+    "current": "Phiên bản hiện tại (EN)",
+    "firmware": "Phiên bản Firmware (EN)",
+    "list": "Danh sách phiên bản cập nhật"
+  },
+  "view": {
+    "history": "Xem lịch sử (EN)",
+    "more": "Xem thêm"
+  },
+  "volume": "Âm lượng (EN)",
+  "wifi": {
+    "enter_name": "Nhập tên Wifi (EN)",
+    "list_connect": "Danh sách Wifi kết nối (EN)",
+    "name": "Tên WIFI"
   }
 }
