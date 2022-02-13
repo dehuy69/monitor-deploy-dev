@@ -20,6 +20,15 @@
   "confirm": "Xác nhận (EN)",
   "connect": "Kết nối (EN)",
   "day": "Chuyển động (EN)",
+  "days": {
+    "Fri": "Thứ sáu",
+    "Mon": "Thứ hai",
+    "Sar": "Thứ bảy",
+    "Sun": "Chủ nhật",
+    "Thu": "Thứ năm",
+    "Tue": "Thứ ba",
+    "Wed": "Thứ tư"
+  },
   "developer_options": "Tùy chọn nhà phát triển (EN)",
   "email": {
     "address": "Địa chỉ email (EN)",
