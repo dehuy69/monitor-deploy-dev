@@ -1,8 +1,5 @@
 {
   "action": "Thao tác (EN)",
-  "add": {
-    "camera": "Thêm camera"
-  },
   "after": "sau (EN)",
   "agree": "Đồng ý (EN)",
   "alarm": "Báo động (EN)",
@@ -10,16 +7,21 @@
   "auto": "Tự động (EN)",
   "camera": {
     "delete": "Xóa camera (EN)",
+    "add": "Thêm camera (EN)",
     "enter_name": "Nhập tên camera (EN)",
     "list": "Danh sách camera (EN)",
     "share": "Chia sẻ camera"
+  },
+  "group": {
+    "add": "Thêm nhóm (EN)",
+    "delete": "Xóa nhóm (EN)"
   },
   "cancel": "Hủy (EN)",
   "click": "bấm (EN)",
   "config": "Cấu hình (EN)",
   "confirm": "Xác nhận (EN)",
   "connect": "Kết nối (EN)",
-  "day": "Chuyển động (EN)",
+  "day": "Move",
   "days": {
     "Fri": "Thứ sáu",
     "Mon": "Thứ hai",
@@ -44,7 +46,7 @@
     "english": "Tiếng Anh (EN)",
     "vietnamese": "Tiếng Việt"
   },
-  "move": "Chuyển động (EN)",
+  "move": "Move",
   "notify": {
     "complete": "Hoàn thành (EN)",
     "connected": "Xác nhận đã kết nối (EN)",

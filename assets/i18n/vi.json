@@ -1,18 +1,20 @@
 {
   "action": "Thao tác",
-  "add": {
-    "camera": "Thêm camera"
-  },
   "after": "sau",
   "agree": "Đồng ý",
   "alarm": "Báo động",
   "all": "Tất cả",
   "auto": "Tự động",
   "camera": {
+    "add": "Thêm camera",
     "delete": "Xóa camera",
     "enter_name": "Nhập tên camera",
     "list": "Danh sách camera",
     "share": "Chia sẻ camera"
+  },
+  "group": {
+    "add": "Thêm nhóm",
+    "delete": "Xóa nhóm"
   },
   "cancel": "Hủy",
   "click": "bấm",

@@ -16,6 +16,9 @@ File: Main Css File
 //Fonts
 @import "custom/fonts/fonts";
 
+//Icons
+@import "icons";
+
 //Core files
 @import "./node_modules/bootstrap/scss/functions";
 @import "./node_modules/bootstrap/scss/variables";
@@ -56,7 +59,6 @@ File: Main Css File
 @import "custom/plugins/form-wizard";
 @import "custom/plugins/dropzone";
 @import "custom/plugins/datatable";
-@import "custom/plugins/apexcharts";
 @import "custom/plugins/chartist";
 @import "custom/plugins/google-maps";
 @import "custom/plugins/calendar";
