@@ -17386,7 +17386,7 @@ const schema = {
     API_GATEWAYS: 'managerdev.ddns.net/',
 };
 const environment = {
-    production: false,
+    production: true,
     WACH_ADDRESS: '8dtT5iBqsPgjj2nd2ueSn3i5q465CmeiobgFPwyUAADf',
     API_URL: schema.HTTPS_SCHEMA + schema.PREFIX + schema.API_GATEWAYS,
     // API_URL: schema.HTTP_SCHEMA + schema.PREFIX + schema.API_GATEWAY,
