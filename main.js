@@ -10263,7 +10263,7 @@ let ListCameraComponent = class ListCameraComponent {
             const pcConfig = {
                 iceServers: [
                     {
-                        url: 'stun:turn1dev.ddns.net:3478'
+                        urls: 'stun:turn1dev.ddns.net:3478'
                     },
                     //{
                     //    url: 'turn:turn1dev.ddns.net:3478',
